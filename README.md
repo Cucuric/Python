@@ -1,6 +1,6 @@
 Python projekti
 ---------------------------------------------------------------------
-      Python zadatak - Vinegereova šifra
+      CoderAndDecoder - Vinegereova šifra
 
       Što je Vinegerova šifra?
        - metoda šifriranja abecednog teksta koju je opisao Giovan Battista Bellaso
